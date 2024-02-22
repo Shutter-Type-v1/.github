@@ -24,13 +24,13 @@ shutter-type.lab is the repository for Shutter Type photoschematic/photo busines
 
 Content is categorized per scoped schema as noted below:
 
-Solution
-Executable
-License
-Platform
-API
-Terminal
-Server
+- Solution
+- Executable
+- License
+- Platform
+- API
+- Terminal
+- Server
 
 Each tier is deployed via stored (daemons: subroutines created by Coalescence) or service (executables: fintech vendor created) grades.  
 
