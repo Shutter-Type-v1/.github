@@ -18,26 +18,20 @@ Public page.
 ![Shutter-Type-v1-Logo_0003](https://github.com/Shutter-Type-v1/.github/assets/2222879/ed78ff22-50d0-462c-a4dc-d6372178cac8)
 
 
-  
+# shutter-type-lab
 
-# shutter-type-lab 
-
-  
-
-  
-
-shutter-type.lab is the repository for Shutter Type electroplate based business particles and nucleus files. 
+shutter-type.lab is the repository for Shutter Type photoschematic/photo business machine electroplate based business particles and nucleus files. 
 
   
 | Command | Description | 
 | --- | --- | 
-|  Build file name: | 'rbm-filename_electroplate' | 
+|  Build file name: | 'rbm-filename-st_electroplate' | 
 |  Repository: | [electroplate-lab](https://github.com/Shutter-Type-v1/electroplate-lab/) | 
 |  Access token: | OAuth | 
 |  Nucleus class: | electroplate.lab | 
 |  Deployment name: | `npm install` electroplate-lab | 
 |  Order: ([https://github.com/Shutter-Type-v1/Technical-Orders](https://github.com/Shutter-Type-v1/Shutter-Type-)) | nucleus type particle | 
-|  Node Home: | 'rbm-electroplatelab/filename' | 
+|  Node Home: | 'rbm-electroplatelab/filename-st' | 
 
   
 
