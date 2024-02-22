@@ -22,6 +22,18 @@ Public page.
 
 shutter-type.lab is the repository for Shutter Type photoschematic/photo business machine electroplate based business particles and nucleus files. Shutter Type is a Monotype typeface to optimize data consistancy that features extensible inline identifiers designed exclusively for Beamology compatible applications.
 
+Content is categorized per scoped schema as noted below:
+
+Solution
+Executable
+License
+Platform
+API
+Terminal
+Server
+
+Each tier is deployed via stored (daemons: subroutines created by Coalescence) or service (executables: fintech vendor created) grades.  
+
   
 | Command | Description | 
 | --- | --- | 
