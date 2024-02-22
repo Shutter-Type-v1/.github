@@ -20,7 +20,7 @@ Public page.
 
 # shutter-type-lab
 
-shutter-type.lab is the repository for Shutter Type photoschematic/photo business machine electroplate based business particles and nucleus files. 
+shutter-type.lab is the repository for Shutter Type photoschematic/photo business machine electroplate based business particles and nucleus files. Shutter Type is a Monotype typeface to optimize data consistancy that features extensible inline identifiers designed exclusively for Beamology compatible applications.
 
   
 | Command | Description | 
@@ -53,7 +53,7 @@ The nucleus class establishes and sets the CLI. The Render Business Machines (RB
 | rbm_electroplate show | List all new or modified files | 
 | rbm_electroplate execute_new | Plan and create new executable to be staged | 
 | rbm_electroplate launch | App launcher 
-| rbm_electroplate package | Toolset for packaging personal business machines | 
+| rbm_electroplate package | Toolset for packaging photo business machines | 
 | rbm_electroplate attribution | Shows all schematic authors and events | 
 | rbm_electroplate test_pipeline | Set up automation test drive event | 
 | rbm_electroplate set_platform | Embarcation for platform system | 
