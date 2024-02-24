@@ -23,6 +23,15 @@ Public page.
 
 shutter-type.lab is the repository for Shutter Type photoschematic/photo business machine electroplate based business particles and nucleus files. Shutter Type is a Monotype typeface to optimize data consistancy that features extensible inline identifiers designed exclusively for Beamology compatible applications.
 
+May be used with Eusedat Autofocus for Shutter Type typeface.
+- Symbol Indexer
+- Eusedat Depth of Field Engine
+- Light Scheme OCR
+- Photo Business Machines Updater
+- Algorithmic Autofocus
+- Typeface Markup Language
+- Shutter Physics 
+
 Content is categorized per scoped schema as noted below:
 
 | Scope | Description | 
