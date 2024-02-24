@@ -25,13 +25,15 @@ shutter-type.lab is the repository for Shutter Type photoschematic/photo busines
 
 Content is categorized per scoped schema as noted below:
 
-- Solution
-- Executable
-- License
-- Platform
-- API
-- Terminal
-- Server
+| Scope | Description | 
+| --- | --- | 
+| Solution | Solutions are the particles and materials used to build business machines |
+| Executable | Executables are schematic assets built to optimize technical analysis |
+| License | License classes grant permissions to use business particles and machines |
+| Platform | Platforms are trade evaluation suggestions based upon analytical data |
+| API | API's are dashboards for snippets and developers to pass parameters via CLI |
+| Terminal | Terminals are notebooks for testing and calibrating business machines |
+| Server | Servers are network switchers that communicate machine language |
 
 Each tier is deployed via stored (daemons: subroutines created by Coalescence) or service (executables: fintech vendor created) grades.  
 
