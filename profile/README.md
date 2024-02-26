@@ -33,7 +33,7 @@ Includes:
 - Typeface Markup Lens
 - Shutter Physics Multi-Layer Lens
 
-Summary trade related data is parsed using:
+Summary technical analysis related data is parsed using:
 - Start: The price at opening bell
 - Target: The consensus price movement
 - Average: The price average between two periods
