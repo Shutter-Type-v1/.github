@@ -34,13 +34,15 @@ Includes:
 - Shutter Physics Multi-Layer Lens
 
 Summary technical analysis related data is parsed using:
-- Start: The price at opening bell
-- Target: The consensus price movement
-- Average: The price average between two periods
-- Percent Change: The plus or minus move price
-- Last: The last price before current price
-- End Yesterday: The price at yesterday close
-- Stop: The final price at closing bell
+| Scope | Description | 
+| --- | --- | 
+| Start: | The price at opening bell
+| Target: | The consensus price movement
+| Average: | The price average between two periods
+| Percent Change: | The plus or minus move price
+| Last: | The last price before current price
+| End Yesterday: | The price at yesterday close
+| Stop: | The final price at closing bell
 
 
 Content is categorized per scoped schema as noted below:
