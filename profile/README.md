@@ -68,7 +68,7 @@ Each tier is deployed via stored (daemons: subroutines created by Coalescence) o
 |  Repository: | [electroplate-lab](https://github.com/Shutter-Type-v1/electroplate-lab/) | 
 |  Access token: | OAuth | 
 |  Nucleus class: | electroplate.lab | 
-|  Deployment name: | `npm install` electroplate-lab | 
+|  Deployment name: | `npm install` shutter_type_v1-lab | 
 |  Order: ([https://github.com/Shutter-Type-v1/Technical-Orders](https://github.com/Shutter-Type-v1/Shutter-Type-)) | nucleus type particle | 
 |  Node Home: | 'rbm-electroplatelab/filename-st' | 
 
