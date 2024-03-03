@@ -25,11 +25,11 @@ shutter-type.lab is the repository for Shutter Type photoschematic/photo busines
 
 May be used with Eusedat Autofocus for Shutter Type typeface. 
 Includes:
-- Symbol Indexer 
-- Eusedat Prime Lens (Depth of Field Engine)
-- Light Scheme OCR Lens
-- Photo Business Machines Sensor Lens
-- Algorithmic Autofocus with Lens Dater
+- Symbol Indexer | Client data warehouse of stock symbols
+- Eusedat Prime Lens (Depth of Field Engine) | Digital DoF lens for business machine serial boxes
+- Light Scheme OCR Lens | OCR based lens for business machine serial boxes
+- Photo Business Machines Sensor Lens | Node sheet parsing lens for business machine serial boxes
+- Algorithmic Autofocus with Lens Dater | 
 - Typeface Markup Lens
 - Shutter Physics Multi-Layer Lens
 
