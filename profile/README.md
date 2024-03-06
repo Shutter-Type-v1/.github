@@ -28,7 +28,7 @@ Includes:
 | Scope | Description | 
 | --- | --- | 
 | Symbol Indexer | Node sheet client data ware house of stock symbol business machine serial boxes
-| Eusedat Prime Lens (Depth of Field Engine) | Order indicator digital DoF lens for business machine serial boxes
+| Eusedat Prime Lens (Depth of Field Engine) | Order indicator digital DoF lens for business machine serial boxes and shuttertype typeface.
 | Light Scheme OCR Lens | Document based lens for business machine serial boxes
 | Photoschematic Sensor Lens | Node sheet parsing lens for business machine serial boxes
 | Algorithmic Autofocus with Lens Dater | Algorithm parsing lens for business machine serial boxes
