@@ -23,7 +23,7 @@ Public page.
 
 shutter-type.lab is the repository for Shutter Type photoschematic/photo business machine electroplate based business particles and nucleus files. Shutter Type is a Monotype typeface to optimize data consistancy that features extensible inline identifiers designed exclusively for [Billfold Technologies B-Series](https://github.com/Billfold-Technologies/B-Series) and compatible Beamology compatible applications.
 
-May be used with Eusedat Autofocus for Shutter Type typeface. 
+May be used with Eusedat Autofocus for Shutter Type typeface for serial typeface compositing.
 Includes:
 | Scope | Description | 
 | --- | --- | 
